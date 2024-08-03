@@ -1,103 +1,103 @@
 {
   "call_stats": {
-    "total_duration": 1275829.0,
-    "total_video_duration": 829737.0,
-    "total_calls": 430,
-    "total_video_calls": 206,
+    "total_duration": 1353307.0,
+    "total_video_duration": 897260.0,
+    "total_calls": 470,
+    "total_video_calls": 233,
     "duration_by_sender": {
-      "Gordon": 260822.0,
-      "Gracy": 1015007.0
+      "Gracy": 1068699.0,
+      "Gordon": 284608.0
     },
     "calls_by_sender": {
-      "Gordon": 70,
-      "Gracy": 360
+      "Gracy": 387,
+      "Gordon": 83
     },
     "longest_call": 14060.0,
     "longest_video_call": 23836.0,
     "calls_by_weekday": {
-      "0": 54,
-      "1": 60,
-      "2": 57,
-      "3": 61,
-      "4": 75,
-      "5": 55,
-      "6": 68
+      "0": 55,
+      "1": 76,
+      "2": 62,
+      "3": 67,
+      "4": 81,
+      "5": 59,
+      "6": 70
     }
   },
   "message_stats": {
-    "total_messages": 30388,
+    "total_messages": 32253,
     "total_messages_by_sender": {
-      "Gordon": 13571,
-      "Gracy": 16817
+      "Gracy": 17854,
+      "Gordon": 14399
     },
     "word_count_by_sender": {
-      "Gordon": 63084,
-      "Gracy": 71700
+      "Gracy": 75053,
+      "Gordon": 65926
     },
     "photos_by_sender": {
-      "Gordon": 372,
-      "Gracy": 709
+      "Gracy": 750,
+      "Gordon": 399
     },
     "stickers_by_sender": {
-      "Gordon": 987,
-      "Gracy": 1337
+      "Gracy": 1483,
+      "Gordon": 1093
     },
     "laughs_by_sender": {
-      "Gordon": 442,
-      "Gracy": 1583
+      "Gracy": 1657,
+      "Gordon": 476
     },
     "messages_by_weekday": {
-      "0": 5949,
-      "1": 5502,
-      "2": 6022,
-      "3": 4538,
-      "4": 1835,
-      "5": 1322,
-      "6": 5220
+      "0": 6200,
+      "1": 5804,
+      "2": 6471,
+      "3": 4922,
+      "4": 2093,
+      "5": 1487,
+      "6": 5276
     },
     "longest_message_by_sender": {
-      "Gordon": {
-        "length": 57,
-        "message": "I love you so much too \uc790\uae30. I love hearing you laugh. I love seeing you smile. I love seeing you eat yummy food. You\u2019re always on my mind. I used to day dream about random things. But since falling in love with you I always just remember our time together or picture us making new memories"
-      },
       "Gracy": {
         "length": 154,
         "message": "so I spent some time thinking about why. I realized that while her suggestions come from a place of love and concern, they often don't align with what I want, making me feel pressured and uncomfortable. For example, her expectations about my future marriage and other aspects of my life sometimes clash with my own goals, and I end up feeling like I need to comply to avoid disappointing her. because I love her so much and she is my mom.  I'm grateful that she never pressured me about my education or career choices, which allowed me to find my own path. Just like that I want her to understand that while I value her advice, it often becomes a standard I feel I must meet, causing internal conflict. Ultimately, I want her support in my decisions, especially regarding marriage, so I can feel confident and secure knowing that she trusts my judgment."
+      },
+      "Gordon": {
+        "length": 57,
+        "message": "I love you so much too \uc790\uae30. I love hearing you laugh. I love seeing you smile. I love seeing you eat yummy food. You\u2019re always on my mind. I used to day dream about random things. But since falling in love with you I always just remember our time together or picture us making new memories"
       }
     },
     "unique_words_by_sender": {
-      "Gordon": 8017,
-      "Gracy": 9361
+      "Gracy": 9698,
+      "Gordon": 8248
     },
     "most_used_words_by_sender": {
-      "Gordon": {
-        "love": 496,
-        "that": 454,
-        "just": 447,
-        "like": 439,
-        "have": 400,
-        "think": 390,
-        "\u314b\u314b\u314b\u314b": 362,
-        "with": 319,
-        "your": 271,
-        "this": 261
-      },
       "Gracy": {
-        "that": 759,
-        "\u314b\u314b\u314b\u314b\u314b": 617,
-        "have": 492,
-        "like": 450,
-        "\u314b\u314b\u314b\u314b": 431,
-        "with": 413,
-        "just": 372,
-        "this": 371,
-        "Call": 362,
-        "what": 358
+        "that": 797,
+        "\u314b\u314b\u314b\u314b\u314b": 648,
+        "have": 510,
+        "like": 471,
+        "\u314b\u314b\u314b\u314b": 444,
+        "with": 433,
+        "Call": 389,
+        "this": 386,
+        "just": 384,
+        "what": 371
+      },
+      "Gordon": {
+        "love": 547,
+        "that": 477,
+        "just": 465,
+        "like": 464,
+        "have": 408,
+        "think": 408,
+        "\u314b\u314b\u314b\u314b": 377,
+        "with": 337,
+        "your": 286,
+        "this": 272
       }
     },
     "love_count_by_sender": {
-      "Gordon": 496,
-      "Gracy": 224
+      "Gracy": 245,
+      "Gordon": 547
     }
   }
 }
